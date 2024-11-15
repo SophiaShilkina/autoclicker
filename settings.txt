@@ -1,2 +1,2 @@
-TOKEN=7296383181:AAHDQtt4th9QEPtQ-63juFLudio4TAYmWgo
-CHAT_ID=750610337
+TOKEN=7296383181:AAHDQtt4th9QEPtQ-**************** //telegram channel token
+CHAT_ID=750******* //telegram chat ID
